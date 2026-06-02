@@ -2,6 +2,7 @@
 
 **Aluno:** Davi Dias Vale  
 **Link do Repositório:** [Link do GitHub](https://github.com/DaviDias158/SimuladorSistemaArquivos)  
+**Professor:** Me. Izequiel Norões  
 **Disciplina:** Proj de Sistema Operacional
 
 ---
@@ -12,7 +13,7 @@ Este projeto consiste no desenvolvimento de um simulador de sistema de arquivos 
 ---
 
 ## Metodologia
-O simulador foi desenvolvido utilizando a linguagem **Java (POO)**. O sistema funciona de duas formas complementares:
+O simulador foi desenvolvido utilizando a linguagem **Java**. O sistema funciona de duas formas complementares:
 1. **Chamadas de Métodos:** Execuções diretas programadas para testar funcionalidades isoladas.
 2. **Modo Avançado (Shell):** Uma interface de linha de comando no terminal que aceita instruções do usuário em tempo real.
 
