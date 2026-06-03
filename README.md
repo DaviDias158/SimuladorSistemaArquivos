@@ -142,7 +142,7 @@ Ao iniciar, você será recebido pelo prompt customizado `SistemasOperacionais@S
 ---
 
 
-## Resultados Esperados
+### Resultados Esperados
 
 Através deste projeto prático, foi possível simular com fidelidade o comportamento interno de estruturas de dados e armazenamento de um Sistema Operacional. O uso da serialização no arquivo binário `filesystem.dat` isolou com sucesso o escopo do nosso sistema em relação ao sistema operacional hospedeiro.
 
